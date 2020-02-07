@@ -37,6 +37,7 @@ class rappel:
 r2=rappel("controle medicale","14/02/2020","rdv","visite du medecin")
 r1.create()
 r2.create()
-"""
+
 r1 = rappel("rdv medicale", "10/02/2020", "rdv", "visite du medecin")
 r1.read()
+"""
